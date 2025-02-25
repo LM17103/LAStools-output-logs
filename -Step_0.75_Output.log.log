@@ -1,0 +1,902 @@
+Please note that LAStools is not "free" (see http://lastools.org/LICENSE.txt)
+contact 'info@rapidlasso.de' to clarify licensing terms if needed.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659080_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 5237 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.017 sec. finding initial ground points ...
+took 0 sec. generating initial ground estimate ...
+inserted 75 deleted 0. initial ground TIN has 75 points.
+took 0 sec. refining ground ...
+inserted 29 deleted 0. refined ground TIN has 104 points.
+inserted 2 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+inserted 0 deleted 0. refined ground TIN has 106 points.
+took 0 sec. adding terrain features ...
+inserted 5081 deleted 0. ground TIN with features has 5187 points.
+took 0 sec. integrating points 0.05 above ground ...
+inserted 3 deleted 0. integrated TIN has 5190 points.
+inserted 1 deleted 0. integrated TIN has 5191 points.
+took 0.015 sec. outputting ...
+took 0 sec. 5191 points classified as ground.
+done with '2-ground\ground.laz'. total time 0.032 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659080_4336460.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 46725 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.031 sec. finding initial ground points ...
+took 0.016 sec. generating initial ground estimate ...
+inserted 251 deleted 0. initial ground TIN has 251 points.
+took 0 sec. refining ground ...
+inserted 112 deleted 0. refined ground TIN has 363 points.
+inserted 5 deleted 0. refined ground TIN has 368 points.
+inserted 2 deleted 0. refined ground TIN has 370 points.
+inserted 0 deleted 0. refined ground TIN has 370 points.
+inserted 0 deleted 0. refined ground TIN has 370 points.
+inserted 0 deleted 0. refined ground TIN has 370 points.
+inserted 0 deleted 0. refined ground TIN has 370 points.
+inserted 0 deleted 0. refined ground TIN has 370 points.
+inserted 0 deleted 0. refined ground TIN has 370 points.
+inserted 0 deleted 0. refined ground TIN has 370 points.
+took 0 sec. adding terrain features ...
+inserted 44158 deleted 1. ground TIN with features has 44527 points.
+took 0.127 sec. integrating points 0.05 above ground ...
+inserted 199 deleted 24. integrated TIN has 44702 points.
+inserted 112 deleted 11. integrated TIN has 44803 points.
+took 0.047 sec. outputting ...
+took 0.031 sec. 44803 points classified as ground.
+done with '2-ground\tile_659080_4336460.laz'. total time 0.252 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659080_4336470.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 60051 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.047 sec. finding initial ground points ...
+took 0 sec. generating initial ground estimate ...
+inserted 322 deleted 0. initial ground TIN has 322 points.
+took 0 sec. refining ground ...
+inserted 155 deleted 0. refined ground TIN has 477 points.
+inserted 4 deleted 0. refined ground TIN has 481 points.
+inserted 1 deleted 0. refined ground TIN has 482 points.
+inserted 0 deleted 0. refined ground TIN has 482 points.
+inserted 0 deleted 0. refined ground TIN has 482 points.
+inserted 0 deleted 0. refined ground TIN has 482 points.
+inserted 0 deleted 0. refined ground TIN has 482 points.
+inserted 0 deleted 0. refined ground TIN has 482 points.
+inserted 0 deleted 0. refined ground TIN has 482 points.
+inserted 0 deleted 0. refined ground TIN has 482 points.
+took 0 sec. adding terrain features ...
+inserted 55029 deleted 0. ground TIN with features has 55511 points.
+took 0.126 sec. integrating points 0.05 above ground ...
+inserted 618 deleted 34. integrated TIN has 56095 points.
+inserted 127 deleted 12. integrated TIN has 56210 points.
+took 0.063 sec. outputting ...
+took 0.048 sec. 56210 points classified as ground.
+done with '2-ground\tile_659080_4336470.laz'. total time 0.284 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659090_4336430.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 28368 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.016 sec. finding initial ground points ...
+took 0 sec. generating initial ground estimate ...
+inserted 216 deleted 0. initial ground TIN has 216 points.
+took 0 sec. refining ground ...
+inserted 104 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+inserted 0 deleted 0. refined ground TIN has 320 points.
+took 0 sec. adding terrain features ...
+inserted 26937 deleted 2. ground TIN with features has 27255 points.
+took 0.063 sec. integrating points 0.05 above ground ...
+inserted 17 deleted 0. integrated TIN has 27272 points.
+inserted 3 deleted 0. integrated TIN has 27275 points.
+took 0.016 sec. outputting ...
+took 0.031 sec. 27275 points classified as ground.
+done with '2-ground\tile_659090_4336430.laz'. total time 0.126 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659090_4336440.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 131610 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.08 sec. finding initial ground points ...
+took 0 sec. generating initial ground estimate ...
+inserted 765 deleted 0. initial ground TIN has 765 points.
+took 0.016 sec. refining ground ...
+inserted 367 deleted 0. refined ground TIN has 1132 points.
+inserted 10 deleted 0. refined ground TIN has 1142 points.
+inserted 1 deleted 0. refined ground TIN has 1143 points.
+inserted 0 deleted 0. refined ground TIN has 1143 points.
+inserted 0 deleted 0. refined ground TIN has 1143 points.
+inserted 0 deleted 0. refined ground TIN has 1143 points.
+inserted 0 deleted 0. refined ground TIN has 1143 points.
+inserted 0 deleted 0. refined ground TIN has 1143 points.
+inserted 0 deleted 0. refined ground TIN has 1143 points.
+inserted 0 deleted 0. refined ground TIN has 1143 points.
+took 0 sec. adding terrain features ...
+inserted 95162 deleted 9. ground TIN with features has 96296 points.
+took 0.331 sec. integrating points 0.05 above ground ...
+inserted 4809 deleted 137. integrated TIN has 100968 points.
+inserted 1395 deleted 62. integrated TIN has 102301 points.
+took 0.376 sec. outputting ...
+took 0.11 sec. 102301 points classified as ground.
+done with '2-ground\tile_659090_4336440.laz'. total time 0.913 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659090_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 261383 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.16 sec. finding initial ground points ...
+took 0 sec. generating initial ground estimate ...
+inserted 948 deleted 0. initial ground TIN has 948 points.
+took 0.015 sec. refining ground ...
+inserted 428 deleted 1. refined ground TIN has 1375 points.
+inserted 19 deleted 0. refined ground TIN has 1394 points.
+inserted 4 deleted 0. refined ground TIN has 1398 points.
+inserted 0 deleted 0. refined ground TIN has 1398 points.
+inserted 0 deleted 0. refined ground TIN has 1398 points.
+inserted 0 deleted 0. refined ground TIN has 1398 points.
+inserted 0 deleted 0. refined ground TIN has 1398 points.
+inserted 0 deleted 0. refined ground TIN has 1398 points.
+inserted 0 deleted 0. refined ground TIN has 1398 points.
+inserted 0 deleted 0. refined ground TIN has 1398 points.
+took 0 sec. adding terrain features ...
+inserted 172423 deleted 75. ground TIN with features has 173746 points.
+took 0.645 sec. integrating points 0.05 above ground ...
+inserted 11856 deleted 229. integrated TIN has 185373 points.
+inserted 3327 deleted 107. integrated TIN has 188593 points.
+took 0.866 sec. outputting ...
+took 0.204 sec. 188593 points classified as ground.
+done with '2-ground\tile_659090_4336450.laz'. total time 1.89 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659090_4336460.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 245388 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.158 sec. finding initial ground points ...
+took 0.015 sec. generating initial ground estimate ...
+inserted 996 deleted 0. initial ground TIN has 996 points.
+took 0 sec. refining ground ...
+inserted 512 deleted 0. refined ground TIN has 1508 points.
+inserted 20 deleted 0. refined ground TIN has 1528 points.
+inserted 3 deleted 0. refined ground TIN has 1531 points.
+inserted 0 deleted 0. refined ground TIN has 1531 points.
+inserted 0 deleted 0. refined ground TIN has 1531 points.
+inserted 0 deleted 0. refined ground TIN has 1531 points.
+inserted 0 deleted 0. refined ground TIN has 1531 points.
+inserted 0 deleted 0. refined ground TIN has 1531 points.
+inserted 0 deleted 0. refined ground TIN has 1531 points.
+inserted 0 deleted 0. refined ground TIN has 1531 points.
+took 0.016 sec. adding terrain features ...
+inserted 200911 deleted 38. ground TIN with features has 202404 points.
+took 0.583 sec. integrating points 0.05 above ground ...
+inserted 7125 deleted 236. integrated TIN has 209293 points.
+inserted 2150 deleted 73. integrated TIN has 211370 points.
+took 0.68 sec. outputting ...
+took 0.205 sec. 211370 points classified as ground.
+done with '2-ground\tile_659090_4336460.laz'. total time 1.657 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659090_4336470.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 128040 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.095 sec. finding initial ground points ...
+took 0 sec. generating initial ground estimate ...
+inserted 840 deleted 0. initial ground TIN has 840 points.
+took 0 sec. refining ground ...
+inserted 443 deleted 0. refined ground TIN has 1283 points.
+inserted 25 deleted 0. refined ground TIN has 1308 points.
+inserted 4 deleted 0. refined ground TIN has 1312 points.
+inserted 0 deleted 0. refined ground TIN has 1312 points.
+inserted 0 deleted 0. refined ground TIN has 1312 points.
+inserted 0 deleted 0. refined ground TIN has 1312 points.
+inserted 0 deleted 0. refined ground TIN has 1312 points.
+inserted 0 deleted 0. refined ground TIN has 1312 points.
+inserted 0 deleted 0. refined ground TIN has 1312 points.
+inserted 0 deleted 0. refined ground TIN has 1312 points.
+took 0.015 sec. adding terrain features ...
+inserted 121834 deleted 2. ground TIN with features has 123144 points.
+took 0.283 sec. integrating points 0.05 above ground ...
+inserted 844 deleted 49. integrated TIN has 123939 points.
+inserted 270 deleted 13. integrated TIN has 124196 points.
+took 0.142 sec. outputting ...
+took 0.094 sec. 124196 points classified as ground.
+done with '2-ground\tile_659090_4336470.laz'. total time 0.629 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659100_4336430.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 47318 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.031 sec. finding initial ground points ...
+took 0.016 sec. generating initial ground estimate ...
+inserted 218 deleted 0. initial ground TIN has 218 points.
+took 0 sec. refining ground ...
+inserted 82 deleted 0. refined ground TIN has 300 points.
+inserted 1 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+inserted 0 deleted 0. refined ground TIN has 301 points.
+took 0 sec. adding terrain features ...
+inserted 41863 deleted 2. ground TIN with features has 42162 points.
+took 0.11 sec. integrating points 0.05 above ground ...
+inserted 225 deleted 0. integrated TIN has 42387 points.
+inserted 23 deleted 0. integrated TIN has 42410 points.
+took 0.032 sec. outputting ...
+took 0.031 sec. 42410 points classified as ground.
+done with '2-ground\tile_659100_4336430.laz'. total time 0.22 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659100_4336440.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 355477 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.221 sec. finding initial ground points ...
+took 0.015 sec. generating initial ground estimate ...
+inserted 1078 deleted 0. initial ground TIN has 1078 points.
+took 0.006 sec. refining ground ...
+inserted 457 deleted 0. refined ground TIN has 1535 points.
+inserted 11 deleted 0. refined ground TIN has 1546 points.
+inserted 1 deleted 0. refined ground TIN has 1547 points.
+inserted 0 deleted 0. refined ground TIN has 1547 points.
+inserted 0 deleted 0. refined ground TIN has 1547 points.
+inserted 0 deleted 0. refined ground TIN has 1547 points.
+inserted 0 deleted 0. refined ground TIN has 1547 points.
+inserted 0 deleted 0. refined ground TIN has 1547 points.
+inserted 0 deleted 0. refined ground TIN has 1547 points.
+inserted 0 deleted 0. refined ground TIN has 1547 points.
+took 0 sec. adding terrain features ...
+inserted 224234 deleted 17. ground TIN with features has 225764 points.
+took 0.876 sec. integrating points 0.05 above ground ...
+inserted 11468 deleted 96. integrated TIN has 237136 points.
+inserted 3663 deleted 44. integrated TIN has 240755 points.
+took 0.693 sec. outputting ...
+took 0.487 sec. 240755 points classified as ground.
+done with '2-ground\tile_659100_4336440.laz'. total time 2.298 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659100_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 331946 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.725 sec. finding initial ground points ...
+took 0.032 sec. generating initial ground estimate ...
+inserted 918 deleted 0. initial ground TIN has 918 points.
+took 0.015 sec. refining ground ...
+inserted 333 deleted 0. refined ground TIN has 1251 points.
+inserted 21 deleted 0. refined ground TIN has 1272 points.
+inserted 1 deleted 0. refined ground TIN has 1273 points.
+inserted 0 deleted 0. refined ground TIN has 1273 points.
+inserted 0 deleted 0. refined ground TIN has 1273 points.
+inserted 0 deleted 0. refined ground TIN has 1273 points.
+inserted 0 deleted 0. refined ground TIN has 1273 points.
+inserted 0 deleted 0. refined ground TIN has 1273 points.
+inserted 0 deleted 0. refined ground TIN has 1273 points.
+inserted 0 deleted 0. refined ground TIN has 1273 points.
+took 0.032 sec. adding terrain features ...
+inserted 77742 deleted 37. ground TIN with features has 78978 points.
+took 0.951 sec. integrating points 0.05 above ground ...
+inserted 14131 deleted 123. integrated TIN has 92986 points.
+inserted 3431 deleted 52. integrated TIN has 96365 points.
+took 1.992 sec. outputting ...
+took 0.913 sec. 96365 points classified as ground.
+done with '2-ground\tile_659100_4336450.laz'. total time 4.66 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659100_4336460.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 285045 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.598 sec. finding initial ground points ...
+took 0.032 sec. generating initial ground estimate ...
+inserted 982 deleted 0. initial ground TIN has 982 points.
+took 0.016 sec. refining ground ...
+inserted 399 deleted 0. refined ground TIN has 1381 points.
+inserted 17 deleted 0. refined ground TIN has 1398 points.
+inserted 2 deleted 0. refined ground TIN has 1400 points.
+inserted 0 deleted 0. refined ground TIN has 1400 points.
+inserted 0 deleted 0. refined ground TIN has 1400 points.
+inserted 0 deleted 0. refined ground TIN has 1400 points.
+inserted 0 deleted 0. refined ground TIN has 1400 points.
+inserted 0 deleted 0. refined ground TIN has 1400 points.
+inserted 0 deleted 0. refined ground TIN has 1400 points.
+inserted 0 deleted 0. refined ground TIN has 1400 points.
+took 0.031 sec. adding terrain features ...
+inserted 89536 deleted 49. ground TIN with features has 90887 points.
+took 1.086 sec. integrating points 0.05 above ground ...
+inserted 20099 deleted 149. integrated TIN has 110837 points.
+inserted 5148 deleted 57. integrated TIN has 115928 points.
+took 2.704 sec. outputting ...
+took 0.789 sec. 115928 points classified as ground.
+done with '2-ground\tile_659100_4336460.laz'. total time 5.256 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659100_4336470.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 127923 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.283 sec. finding initial ground points ...
+took 0.031 sec. generating initial ground estimate ...
+inserted 1005 deleted 0. initial ground TIN has 1005 points.
+took 0.016 sec. refining ground ...
+inserted 488 deleted 0. refined ground TIN has 1493 points.
+inserted 27 deleted 0. refined ground TIN has 1520 points.
+inserted 2 deleted 0. refined ground TIN has 1522 points.
+inserted 0 deleted 0. refined ground TIN has 1522 points.
+inserted 0 deleted 0. refined ground TIN has 1522 points.
+inserted 0 deleted 0. refined ground TIN has 1522 points.
+inserted 0 deleted 0. refined ground TIN has 1522 points.
+inserted 0 deleted 0. refined ground TIN has 1522 points.
+inserted 0 deleted 0. refined ground TIN has 1522 points.
+inserted 0 deleted 0. refined ground TIN has 1522 points.
+took 0.016 sec. adding terrain features ...
+inserted 102663 deleted 30. ground TIN with features has 104155 points.
+took 0.865 sec. integrating points 0.05 above ground ...
+inserted 3491 deleted 104. integrated TIN has 107542 points.
+inserted 843 deleted 51. integrated TIN has 108334 points.
+took 0.679 sec. outputting ...
+took 0.361 sec. 108334 points classified as ground.
+done with '2-ground\tile_659100_4336470.laz'. total time 2.251 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659100_4336480.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 20892 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.048 sec. finding initial ground points ...
+took 0.031 sec. generating initial ground estimate ...
+inserted 194 deleted 0. initial ground TIN has 194 points.
+took 0 sec. refining ground ...
+inserted 97 deleted 0. refined ground TIN has 291 points.
+inserted 4 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+inserted 0 deleted 0. refined ground TIN has 295 points.
+took 0.016 sec. adding terrain features ...
+inserted 19377 deleted 1. ground TIN with features has 19671 points.
+took 0.142 sec. integrating points 0.05 above ground ...
+inserted 212 deleted 9. integrated TIN has 19874 points.
+inserted 95 deleted 5. integrated TIN has 19964 points.
+took 0.048 sec. outputting ...
+took 0.063 sec. 19964 points classified as ground.
+done with '2-ground\tile_659100_4336480.laz'. total time 0.348 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659110_4336440.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 535933 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 1.118 sec. finding initial ground points ...
+took 0.031 sec. generating initial ground estimate ...
+inserted 1008 deleted 0. initial ground TIN has 1008 points.
+took 0.032 sec. refining ground ...
+inserted 451 deleted 0. refined ground TIN has 1459 points.
+inserted 12 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+inserted 0 deleted 0. refined ground TIN has 1471 points.
+took 0.031 sec. adding terrain features ...
+inserted 439508 deleted 7. ground TIN with features has 440972 points.
+took 7.524 sec. integrating points 0.05 above ground ...
+inserted 6508 deleted 66. integrated TIN has 447414 points.
+inserted 2462 deleted 33. integrated TIN has 449843 points.
+took 3.132 sec. outputting ...
+took 1.416 sec. 449843 points classified as ground.
+done with '2-ground\tile_659110_4336440.laz'. total time 13.284 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659110_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 339842 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.725 sec. finding initial ground points ...
+took 0.047 sec. generating initial ground estimate ...
+inserted 1121 deleted 0. initial ground TIN has 1121 points.
+took 0.015 sec. refining ground ...
+inserted 487 deleted 0. refined ground TIN has 1608 points.
+inserted 11 deleted 0. refined ground TIN has 1619 points.
+inserted 1 deleted 0. refined ground TIN has 1620 points.
+inserted 0 deleted 0. refined ground TIN has 1620 points.
+inserted 0 deleted 0. refined ground TIN has 1620 points.
+inserted 0 deleted 0. refined ground TIN has 1620 points.
+inserted 0 deleted 0. refined ground TIN has 1620 points.
+inserted 0 deleted 0. refined ground TIN has 1620 points.
+inserted 0 deleted 0. refined ground TIN has 1620 points.
+inserted 0 deleted 0. refined ground TIN has 1620 points.
+took 0.033 sec. adding terrain features ...
+inserted 92862 deleted 30. ground TIN with features has 94452 points.
+took 1.21 sec. integrating points 0.05 above ground ...
+inserted 23815 deleted 49. integrated TIN has 118218 points.
+inserted 4015 deleted 17. integrated TIN has 122216 points.
+took 2.423 sec. outputting ...
+took 0.992 sec. 122216 points classified as ground.
+done with '2-ground\tile_659110_4336450.laz'. total time 5.445 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659110_4336460.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 289114 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.615 sec. finding initial ground points ...
+took 0.047 sec. generating initial ground estimate ...
+inserted 982 deleted 2. initial ground TIN has 980 points.
+took 0.025 sec. refining ground ...
+inserted 388 deleted 0. refined ground TIN has 1368 points.
+inserted 18 deleted 0. refined ground TIN has 1386 points.
+inserted 1 deleted 0. refined ground TIN has 1387 points.
+inserted 0 deleted 0. refined ground TIN has 1387 points.
+inserted 0 deleted 0. refined ground TIN has 1387 points.
+inserted 0 deleted 0. refined ground TIN has 1387 points.
+inserted 0 deleted 0. refined ground TIN has 1387 points.
+inserted 0 deleted 0. refined ground TIN has 1387 points.
+inserted 0 deleted 0. refined ground TIN has 1387 points.
+inserted 0 deleted 0. refined ground TIN has 1387 points.
+took 0.023 sec. adding terrain features ...
+inserted 42571 deleted 139. ground TIN with features has 43819 points.
+took 0.66 sec. integrating points 0.05 above ground ...
+inserted 23445 deleted 186. integrated TIN has 67078 points.
+inserted 5073 deleted 74. integrated TIN has 72077 points.
+took 2.344 sec. outputting ...
+took 0.849 sec. 72077 points classified as ground.
+done with '2-ground\tile_659110_4336460.laz'. total time 4.563 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659110_4336470.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 246084 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.551 sec. finding initial ground points ...
+took 0.046 sec. generating initial ground estimate ...
+inserted 1083 deleted 0. initial ground TIN has 1083 points.
+took 0.016 sec. refining ground ...
+inserted 488 deleted 0. refined ground TIN has 1571 points.
+inserted 18 deleted 0. refined ground TIN has 1589 points.
+inserted 4 deleted 0. refined ground TIN has 1593 points.
+inserted 0 deleted 0. refined ground TIN has 1593 points.
+inserted 0 deleted 0. refined ground TIN has 1593 points.
+inserted 0 deleted 0. refined ground TIN has 1593 points.
+inserted 0 deleted 0. refined ground TIN has 1593 points.
+inserted 0 deleted 0. refined ground TIN has 1593 points.
+inserted 0 deleted 0. refined ground TIN has 1593 points.
+inserted 0 deleted 0. refined ground TIN has 1593 points.
+took 0.032 sec. adding terrain features ...
+inserted 174171 deleted 144. ground TIN with features has 175620 points.
+took 2.204 sec. integrating points 0.05 above ground ...
+inserted 8349 deleted 305. integrated TIN has 183664 points.
+inserted 2652 deleted 123. integrated TIN has 186193 points.
+took 3.161 sec. outputting ...
+took 0.707 sec. 186193 points classified as ground.
+done with '2-ground\tile_659110_4336470.laz'. total time 6.717 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659110_4336480.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 83358 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.204 sec. finding initial ground points ...
+took 0.047 sec. generating initial ground estimate ...
+inserted 497 deleted 0. initial ground TIN has 497 points.
+took 0.016 sec. refining ground ...
+inserted 219 deleted 0. refined ground TIN has 716 points.
+inserted 2 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+inserted 0 deleted 0. refined ground TIN has 718 points.
+took 0 sec. adding terrain features ...
+inserted 71870 deleted 9. ground TIN with features has 72579 points.
+took 0.645 sec. integrating points 0.05 above ground ...
+inserted 1054 deleted 27. integrated TIN has 73606 points.
+inserted 182 deleted 15. integrated TIN has 73773 points.
+took 0.408 sec. outputting ...
+took 0.236 sec. 73773 points classified as ground.
+done with '2-ground\tile_659110_4336480.laz'. total time 1.556 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659120_4336440.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 419287 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.913 sec. finding initial ground points ...
+took 0.031 sec. generating initial ground estimate ...
+inserted 889 deleted 0. initial ground TIN has 889 points.
+took 0.016 sec. refining ground ...
+inserted 362 deleted 0. refined ground TIN has 1251 points.
+inserted 4 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+inserted 0 deleted 0. refined ground TIN has 1255 points.
+took 0.026 sec. adding terrain features ...
+inserted 315698 deleted 0. ground TIN with features has 316953 points.
+took 5.258 sec. integrating points 0.05 above ground ...
+inserted 12132 deleted 10. integrated TIN has 329075 points.
+inserted 2620 deleted 3. integrated TIN has 331692 points.
+took 1.478 sec. outputting ...
+took 1.085 sec. 331692 points classified as ground.
+done with '2-ground\tile_659120_4336440.laz'. total time 8.823 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659120_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 780591 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 1.541 sec. finding initial ground points ...
+took 0.048 sec. generating initial ground estimate ...
+inserted 1223 deleted 0. initial ground TIN has 1223 points.
+took 0 sec. refining ground ...
+inserted 542 deleted 0. refined ground TIN has 1765 points.
+inserted 9 deleted 0. refined ground TIN has 1774 points.
+inserted 1 deleted 0. refined ground TIN has 1775 points.
+inserted 0 deleted 0. refined ground TIN has 1775 points.
+inserted 0 deleted 0. refined ground TIN has 1775 points.
+inserted 0 deleted 0. refined ground TIN has 1775 points.
+inserted 0 deleted 0. refined ground TIN has 1775 points.
+inserted 0 deleted 0. refined ground TIN has 1775 points.
+inserted 0 deleted 0. refined ground TIN has 1775 points.
+inserted 0 deleted 0. refined ground TIN has 1775 points.
+took 0.047 sec. adding terrain features ...
+inserted 235492 deleted 12. ground TIN with features has 237255 points.
+took 5.257 sec. integrating points 0.05 above ground ...
+inserted 58247 deleted 52. integrated TIN has 295450 points.
+inserted 8617 deleted 21. integrated TIN has 304046 points.
+took 10.835 sec. outputting ...
+took 2.188 sec. 304046 points classified as ground.
+done with '2-ground\tile_659120_4336450.laz'. total time 19.931 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659120_4336460.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 297022 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.61 sec. finding initial ground points ...
+took 0.05 sec. generating initial ground estimate ...
+inserted 1033 deleted 0. initial ground TIN has 1033 points.
+took 0.016 sec. refining ground ...
+inserted 426 deleted 0. refined ground TIN has 1459 points.
+inserted 12 deleted 0. refined ground TIN has 1471 points.
+inserted 2 deleted 0. refined ground TIN has 1473 points.
+inserted 0 deleted 0. refined ground TIN has 1473 points.
+inserted 0 deleted 0. refined ground TIN has 1473 points.
+inserted 0 deleted 0. refined ground TIN has 1473 points.
+inserted 0 deleted 0. refined ground TIN has 1473 points.
+inserted 0 deleted 0. refined ground TIN has 1473 points.
+inserted 0 deleted 0. refined ground TIN has 1473 points.
+inserted 0 deleted 0. refined ground TIN has 1473 points.
+took 0.031 sec. adding terrain features ...
+inserted 83616 deleted 38. ground TIN with features has 85051 points.
+took 1.117 sec. integrating points 0.05 above ground ...
+inserted 21179 deleted 99. integrated TIN has 106131 points.
+inserted 4046 deleted 52. integrated TIN has 110125 points.
+took 2.06 sec. outputting ...
+took 0.834 sec. 110125 points classified as ground.
+done with '2-ground\tile_659120_4336460.laz'. total time 4.721 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659120_4336470.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 386562 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.783 sec. finding initial ground points ...
+took 0.047 sec. generating initial ground estimate ...
+inserted 1052 deleted 0. initial ground TIN has 1052 points.
+took 0.016 sec. refining ground ...
+inserted 522 deleted 0. refined ground TIN has 1574 points.
+inserted 24 deleted 0. refined ground TIN has 1598 points.
+inserted 1 deleted 0. refined ground TIN has 1599 points.
+inserted 0 deleted 0. refined ground TIN has 1599 points.
+inserted 0 deleted 0. refined ground TIN has 1599 points.
+inserted 0 deleted 0. refined ground TIN has 1599 points.
+inserted 0 deleted 0. refined ground TIN has 1599 points.
+inserted 0 deleted 0. refined ground TIN has 1599 points.
+inserted 0 deleted 0. refined ground TIN has 1599 points.
+inserted 0 deleted 0. refined ground TIN has 1599 points.
+took 0.031 sec. adding terrain features ...
+inserted 273693 deleted 137. ground TIN with features has 275155 points.
+took 3.745 sec. integrating points 0.05 above ground ...
+inserted 11524 deleted 265. integrated TIN has 286414 points.
+inserted 2723 deleted 127. integrated TIN has 289010 points.
+took 4.63 sec. outputting ...
+took 0.841 sec. 289010 points classified as ground.
+done with '2-ground\tile_659120_4336470.laz'. total time 10.093 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659120_4336480.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 162311 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.267 sec. finding initial ground points ...
+took 0.047 sec. generating initial ground estimate ...
+inserted 696 deleted 1. initial ground TIN has 695 points.
+took 0 sec. refining ground ...
+inserted 294 deleted 0. refined ground TIN has 989 points.
+inserted 6 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+inserted 0 deleted 0. refined ground TIN has 995 points.
+took 0.029 sec. adding terrain features ...
+inserted 121789 deleted 101. ground TIN with features has 122683 points.
+took 0.967 sec. integrating points 0.05 above ground ...
+inserted 5061 deleted 116. integrated TIN has 127628 points.
+inserted 1564 deleted 54. integrated TIN has 129138 points.
+took 0.647 sec. outputting ...
+took 0.235 sec. 129138 points classified as ground.
+done with '2-ground\tile_659120_4336480.laz'. total time 2.192 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659130_4336440.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 233148 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.348 sec. finding initial ground points ...
+took 0.047 sec. generating initial ground estimate ...
+inserted 649 deleted 0. initial ground TIN has 649 points.
+took 0 sec. refining ground ...
+inserted 267 deleted 0. refined ground TIN has 916 points.
+inserted 1 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+inserted 0 deleted 0. refined ground TIN has 917 points.
+took 0.016 sec. adding terrain features ...
+inserted 224816 deleted 6. ground TIN with features has 225727 points.
+took 3.442 sec. integrating points 0.05 above ground ...
+inserted 586 deleted 41. integrated TIN has 226272 points.
+inserted 195 deleted 21. integrated TIN has 226446 points.
+took 1.016 sec. outputting ...
+took 0.629 sec. 226446 points classified as ground.
+done with '2-ground\tile_659130_4336440.laz'. total time 5.498 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659130_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 1004553 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 2.092 sec. finding initial ground points ...
+took 0.031 sec. generating initial ground estimate ...
+inserted 1238 deleted 1. initial ground TIN has 1237 points.
+took 0.048 sec. refining ground ...
+inserted 524 deleted 0. refined ground TIN has 1761 points.
+inserted 16 deleted 0. refined ground TIN has 1777 points.
+inserted 1 deleted 0. refined ground TIN has 1778 points.
+inserted 0 deleted 0. refined ground TIN has 1778 points.
+inserted 0 deleted 0. refined ground TIN has 1778 points.
+inserted 0 deleted 0. refined ground TIN has 1778 points.
+inserted 0 deleted 0. refined ground TIN has 1778 points.
+inserted 0 deleted 0. refined ground TIN has 1778 points.
+inserted 0 deleted 0. refined ground TIN has 1778 points.
+inserted 0 deleted 0. refined ground TIN has 1778 points.
+took 0.046 sec. adding terrain features ...
+inserted 369126 deleted 44. ground TIN with features has 370860 points.
+took 7.694 sec. integrating points 0.05 above ground ...
+inserted 49356 deleted 248. integrated TIN has 419968 points.
+inserted 16075 deleted 87. integrated TIN has 435956 points.
+took 11.881 sec. outputting ...
+took 2.785 sec. 435956 points classified as ground.
+done with '2-ground\tile_659130_4336450.laz'. total time 24.577 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659130_4336460.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 555357 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 1.181 sec. finding initial ground points ...
+took 0.066 sec. generating initial ground estimate ...
+inserted 1109 deleted 1. initial ground TIN has 1108 points.
+took 0.028 sec. refining ground ...
+inserted 504 deleted 0. refined ground TIN has 1612 points.
+inserted 9 deleted 0. refined ground TIN has 1621 points.
+inserted 2 deleted 0. refined ground TIN has 1623 points.
+inserted 0 deleted 0. refined ground TIN has 1623 points.
+inserted 0 deleted 0. refined ground TIN has 1623 points.
+inserted 0 deleted 0. refined ground TIN has 1623 points.
+inserted 0 deleted 0. refined ground TIN has 1623 points.
+inserted 0 deleted 0. refined ground TIN has 1623 points.
+inserted 0 deleted 0. refined ground TIN has 1623 points.
+inserted 0 deleted 0. refined ground TIN has 1623 points.
+took 0.032 sec. adding terrain features ...
+inserted 217208 deleted 421. ground TIN with features has 218410 points.
+took 3.622 sec. integrating points 0.05 above ground ...
+inserted 25065 deleted 353. integrated TIN has 243122 points.
+inserted 6155 deleted 120. integrated TIN has 249157 points.
+took 5.039 sec. outputting ...
+took 1.535 sec. 249157 points classified as ground.
+done with '2-ground\tile_659130_4336460.laz'. total time 11.503 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659130_4336470.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 184416 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.393 sec. finding initial ground points ...
+took 0.062 sec. generating initial ground estimate ...
+inserted 1107 deleted 0. initial ground TIN has 1107 points.
+took 0 sec. refining ground ...
+inserted 496 deleted 2. refined ground TIN has 1601 points.
+inserted 19 deleted 0. refined ground TIN has 1620 points.
+inserted 1 deleted 0. refined ground TIN has 1621 points.
+inserted 0 deleted 0. refined ground TIN has 1621 points.
+inserted 0 deleted 0. refined ground TIN has 1621 points.
+inserted 0 deleted 0. refined ground TIN has 1621 points.
+inserted 0 deleted 0. refined ground TIN has 1621 points.
+inserted 0 deleted 0. refined ground TIN has 1621 points.
+inserted 0 deleted 0. refined ground TIN has 1621 points.
+inserted 0 deleted 0. refined ground TIN has 1621 points.
+took 0.033 sec. adding terrain features ...
+inserted 118617 deleted 100. ground TIN with features has 120138 points.
+took 1.164 sec. integrating points 0.05 above ground ...
+inserted 8483 deleted 191. integrated TIN has 128430 points.
+inserted 2083 deleted 86. integrated TIN has 130427 points.
+took 1.636 sec. outputting ...
+took 0.503 sec. 130427 points classified as ground.
+done with '2-ground\tile_659130_4336470.laz'. total time 3.791 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659130_4336480.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 90915 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.205 sec. finding initial ground points ...
+took 0.062 sec. generating initial ground estimate ...
+inserted 989 deleted 0. initial ground TIN has 989 points.
+took 0.016 sec. refining ground ...
+inserted 405 deleted 0. refined ground TIN has 1394 points.
+inserted 13 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+inserted 0 deleted 0. refined ground TIN has 1407 points.
+took 0.016 sec. adding terrain features ...
+inserted 74028 deleted 13. ground TIN with features has 75422 points.
+took 0.646 sec. integrating points 0.05 above ground ...
+inserted 2961 deleted 70. integrated TIN has 78313 points.
+inserted 673 deleted 43. integrated TIN has 78943 points.
+took 0.613 sec. outputting ...
+took 0.252 sec. 78943 points classified as ground.
+done with '2-ground\tile_659130_4336480.laz'. total time 1.81 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659140_4336440.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 68845 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.157 sec. finding initial ground points ...
+took 0.048 sec. generating initial ground estimate ...
+inserted 350 deleted 0. initial ground TIN has 350 points.
+took 0 sec. refining ground ...
+inserted 125 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+inserted 0 deleted 0. refined ground TIN has 475 points.
+took 0.015 sec. adding terrain features ...
+inserted 68367 deleted 0. ground TIN with features has 68842 points.
+took 0.694 sec. integrating points 0.05 above ground ...
+inserted 3 deleted 0. integrated TIN has 68845 points.
+inserted 0 deleted 0. integrated TIN has 68845 points.
+took 0.141 sec. outputting ...
+took 0.173 sec. 68845 points classified as ground.
+done with '2-ground\tile_659140_4336440.laz'. total time 1.228 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659140_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 558897 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 1.148 sec. finding initial ground points ...
+took 0.079 sec. generating initial ground estimate ...
+inserted 1133 deleted 0. initial ground TIN has 1133 points.
+took 0 sec. refining ground ...
+inserted 469 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+inserted 0 deleted 0. refined ground TIN has 1602 points.
+took 0.047 sec. adding terrain features ...
+inserted 493218 deleted 11. ground TIN with features has 494809 points.
+took 7.364 sec. integrating points 0.05 above ground ...
+inserted 1382 deleted 48. integrated TIN has 496143 points.
+inserted 388 deleted 13. integrated TIN has 496518 points.
+took 2.063 sec. outputting ...
+took 1.418 sec. 496518 points classified as ground.
+done with '2-ground\tile_659140_4336450.laz'. total time 12.119 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659140_4336460.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 406856 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.849 sec. finding initial ground points ...
+took 0.063 sec. generating initial ground estimate ...
+inserted 782 deleted 0. initial ground TIN has 782 points.
+took 0.016 sec. refining ground ...
+inserted 342 deleted 0. refined ground TIN has 1124 points.
+inserted 1 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+inserted 0 deleted 0. refined ground TIN has 1125 points.
+took 0.031 sec. adding terrain features ...
+inserted 298166 deleted 12. ground TIN with features has 299279 points.
+took 3.76 sec. integrating points 0.05 above ground ...
+inserted 4831 deleted 12. integrated TIN has 304098 points.
+inserted 1382 deleted 6. integrated TIN has 305474 points.
+took 1.152 sec. outputting ...
+took 0.835 sec. 305474 points classified as ground.
+done with '2-ground\tile_659140_4336460.laz'. total time 6.706 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659140_4336470.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 61991 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.125 sec. finding initial ground points ...
+took 0.06 sec. generating initial ground estimate ...
+inserted 591 deleted 0. initial ground TIN has 591 points.
+took 0.004 sec. refining ground ...
+inserted 254 deleted 0. refined ground TIN has 845 points.
+inserted 3 deleted 0. refined ground TIN has 848 points.
+inserted 1 deleted 0. refined ground TIN has 849 points.
+inserted 0 deleted 0. refined ground TIN has 849 points.
+inserted 0 deleted 0. refined ground TIN has 849 points.
+inserted 0 deleted 0. refined ground TIN has 849 points.
+inserted 0 deleted 0. refined ground TIN has 849 points.
+inserted 0 deleted 0. refined ground TIN has 849 points.
+inserted 0 deleted 0. refined ground TIN has 849 points.
+inserted 0 deleted 0. refined ground TIN has 849 points.
+took 0.016 sec. adding terrain features ...
+inserted 47040 deleted 3. ground TIN with features has 47886 points.
+took 0.38 sec. integrating points 0.05 above ground ...
+inserted 2007 deleted 51. integrated TIN has 49842 points.
+inserted 599 deleted 24. integrated TIN has 50417 points.
+took 0.313 sec. outputting ...
+took 0.173 sec. 50417 points classified as ground.
+done with '2-ground\tile_659140_4336470.laz'. total time 1.071 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659140_4336480.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 28300 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.047 sec. finding initial ground points ...
+took 0.069 sec. generating initial ground estimate ...
+inserted 300 deleted 0. initial ground TIN has 300 points.
+took 0 sec. refining ground ...
+inserted 120 deleted 0. refined ground TIN has 420 points.
+inserted 7 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+inserted 0 deleted 0. refined ground TIN has 427 points.
+took 0.01 sec. adding terrain features ...
+inserted 22106 deleted 3. ground TIN with features has 22530 points.
+took 0.191 sec. integrating points 0.05 above ground ...
+inserted 1110 deleted 13. integrated TIN has 23627 points.
+inserted 265 deleted 5. integrated TIN has 23887 points.
+took 0.108 sec. outputting ...
+took 0.094 sec. 23887 points classified as ground.
+done with '2-ground\tile_659140_4336480.laz'. total time 0.519 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659150_4336440.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 2770 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.016 sec. finding initial ground points ...
+took 0.063 sec. generating initial ground estimate ...
+inserted 23 deleted 0. initial ground TIN has 23 points.
+took 0 sec. refining ground ...
+inserted 9 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+inserted 0 deleted 0. refined ground TIN has 32 points.
+took 0 sec. adding terrain features ...
+inserted 2735 deleted 0. ground TIN with features has 2767 points.
+took 0.02 sec. integrating points 0.05 above ground ...
+inserted 3 deleted 0. integrated TIN has 2770 points.
+inserted 0 deleted 0. integrated TIN has 2770 points.
+took 0 sec. outputting ...
+took 0.012 sec. 2770 points classified as ground.
+done with '2-ground\tile_659150_4336440.laz'. total time 0.111 sec.
+processing file 'C:\Users\3M-RDX22-L02\Desktop\Internship\Internship_Luca\Halos\Batch_files_scripts\1-tiles\tile_659150_4336450.laz'.
+horizontal units are meter and vertical units are meter. custom mode.
+reading 7099 points. step: 0.75 m, sub: 3, bulge: 0.15 m, spike: 1+10 m, offset: 0.05 m, stddev: 10 cm ...
+took 0.015 sec. finding initial ground points ...
+took 0.073 sec. generating initial ground estimate ...
+inserted 50 deleted 0. initial ground TIN has 50 points.
+took 0.006 sec. refining ground ...
+inserted 21 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+inserted 0 deleted 0. refined ground TIN has 71 points.
+took 0 sec. adding terrain features ...
+inserted 7025 deleted 0. ground TIN with features has 7096 points.
+took 0.047 sec. integrating points 0.05 above ground ...
+inserted 3 deleted 0. integrated TIN has 7099 points.
+inserted 0 deleted 0. integrated TIN has 7099 points.
+took 0.016 sec. outputting ...
+took 0.015 sec. 7099 points classified as ground.
+done with '2-ground\tile_659150_4336450.laz'. total time 0.172 sec.
